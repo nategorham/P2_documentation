@@ -21,7 +21,6 @@ Currently, Arc is only avalible for MacOS. However, versions for Windows, Linux,
 
 <details >
 <summary> Installation instructions </summary>
-<br>
 
 [Click here to install](https://arc.net/)
 
@@ -43,6 +42,8 @@ To get support, click help on the top menu while using arc or go to their [websi
 <details>
 <summary> <b> &emsp; </b> Sidebar Basics </summary>
 <br>
+
+![sidebar picture](./images/IMG_Sidebar.jpg)
 
 1. Top
     * Stoplight
@@ -72,16 +73,20 @@ To get support, click help on the top menu while using arc or go to their [websi
 <br>
 
 1. Folders 
+![folder picture](./images/IMG_Folder.jpg)
     * Folders can be used group tabs together
     * To use a folder, create a new one. It will apear in the Space Tabs section. Then, you can start drag tabs in it. You can click on it to open it.
 1. Split Screen
+![split screen picture](./images/IMG_Split_Screen.jpg)
     * Split screen is a helpful tool that allows you to view multiple tabs at once.
     * To activate it, just drag a tab from your sidebar into an already open tab. Depending on where you put it, it will show up on the left, right, top, or bottom.
     * In the sidebar, there will be a new tab that has the tabs grouped together.
 1. Pinning Tabs
+![pinned tabs](./images/IMG_Pin.png)
     * You can pin tabs to a spacific space, or to the pinned tabs area to be accessed by all spaces.
     * To pin tab you just have to drag them where you need them
 1. Archived Tabs
+![archived tabs](./images/IMG_Archive.png)
     * Within the library, there is an archived tabs section. In here you can lookup closed tabs and delete them.
 
 </details>
