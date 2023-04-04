@@ -1,12 +1,5 @@
 # Manage Tabs using the Arc Browser
 
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
 
 <body>
     <img src="https://logotyp.us/files/arc-browser.svg" alt= “ArcLogo” width="25%" height="" class="center">
