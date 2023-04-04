@@ -6,9 +6,9 @@
 </body>
 
 
-<a href="#Introduction">Introduction</a>
-<a href="#Equipment">Equipment</a>
-<a href="#Installation">Installation</a>
+<a href="#Introduction">Introduction</a><br>
+<a href="#Equipment">Equipment</a><br>
+<a href="#Installation">Installation</a><br>
 <a href="#Support">Support</a>
 <details >
 <summary> <a href="#Instructions">Instructions for Use</a> </summary>
